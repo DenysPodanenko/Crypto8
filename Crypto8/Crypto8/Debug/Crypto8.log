@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\den\source\repos\crypto8\crypto8\source.cpp(258): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\den\source\repos\crypto8\crypto8\source.cpp(259): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Crypto8.vcxproj -> c:\Users\Den\source\repos\Crypto8\Debug\Crypto8.exe
